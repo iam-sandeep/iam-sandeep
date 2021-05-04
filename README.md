@@ -11,5 +11,5 @@
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
-![](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+![Chill](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
  
