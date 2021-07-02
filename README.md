@@ -5,9 +5,6 @@
 </h2>
 
 <h2 align="center">
-    I'm
-    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Sandeep Sharma
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
